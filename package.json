@@ -1,7 +1,7 @@
 {
-  "name": "mesto2",
+  "name": "mesto",
   "version": "1.0.0",
-  "description": "git@github.com:badpascal/mesto2.git\r https://github.com/badpascal/mesto2.git",
+  "description": "git@github.com:badpascal/mesto.git\r https://github.com/badpascal/mesto.git",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
