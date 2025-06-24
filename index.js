@@ -1,4 +1,4 @@
-import "./pages/index.css";
+import "./index.css";
 import { openModal, closeModal } from "./components/modal.js";
 import { createCard, handleDeleteCard } from "./components/card.js";
 import { enableValidation, clearValidation } from "./components/validation.js";
